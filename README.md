@@ -17,6 +17,6 @@
 ## Contact me!
 ``` 
 discord: lunaisonline.
-e-mail: lunamessesaround@gmail.com
+e-mail: me@lunacodes.online
 ```
 
