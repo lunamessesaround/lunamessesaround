@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**lunamessesaround/lunamessesaround** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# lunamessesaround - (she/her) 🏳️‍🌈
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+![banner](https://i.ibb.co/Z84d6yp/pink-anime-scenery.gif)
+
+
+## Currently working on:
+
+ - [Java](https://docs.oracle.com/en/java/)
+ - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+ - Other random things I want to do
+
+
+## Contact me!
+``` 
+discord: lunaisonline.
+e-mail: lunamessesaround@gmail.com
+```
+
